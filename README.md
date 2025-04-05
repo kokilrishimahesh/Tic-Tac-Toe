@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Mage using Grpc
+Made using Grpc
